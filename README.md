@@ -1,2 +1,2 @@
 # fiz
-Web in fibjs
+Web in fibjs (http://fibjs.org )
